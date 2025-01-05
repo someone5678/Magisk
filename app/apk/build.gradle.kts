@@ -118,4 +118,5 @@ dependencies {
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.core:core-splashscreen:1.0.0")
     implementation("com.google.android.material:material:1.8.0")
+    implementation("com.google.android.flexbox:flexbox:3.0.0")
 }
